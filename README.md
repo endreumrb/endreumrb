@@ -1,9 +1,9 @@
 ### Olá, Tudo certo? 😁 
 
-Meu nome é Endreu Benites. Tecnólogo em Análise e Desenvolvimento de Sistemas, trabalho como Técnico de suporte e estou em busca da minha primeira oportunidade na área de desenvolvimento Front-End.
+Meu nome é Endreu Benites. Tecnólogo em Análise e Desenvolvimento de Sistemas, trabalho como Técnico de suporte em busca da primeira oportunidade na área de desenvolvimento Front-End.
 Sou muito curioso quando o assunto se trata de tecnologia, por esse motivo sempre procuro evoluir e aprimorar meus conhecimentos.
 
-Atualmente possuo conhecimentos nas seguintes tecnologias:
+Atualmente todos meus projetos são baseados nas seguintes tecnologias:
 
 - [JavaScript](https://www.javascript.com/)
 - [TypeScript](https://www.typescriptlang.org/)
