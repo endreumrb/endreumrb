@@ -27,5 +27,5 @@ Deseja me falar algo? Fique a vontade para entrar em contato!
 ____
 
 
-[![Endreu's GitHub stats](https://github-readme-stats.vercel.app/api?username=endreumrb&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Endreu's GitHub stats](https://github-readme-stats.vercel.app/api?username=endreumrb&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/endreumrb)
 
