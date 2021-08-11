@@ -1,16 +1,30 @@
-### Hi there 👋
+### Olá, Tudo certo? 😁 
 
-<!--
-**endreumrb/endreumrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Endreu Benites. Tecnólogo em Análise e Desenvolvimento de Sistemas, trabalho como Técnico de suporte e estou em busca da minha primeira oportunidade na área de desenvolvimento Front-End.
+Sou muito curioso quando o assunto se trata de tecnologia, por esse motivo sempre procuro evoluir e aprimorar meus conhecimentos.
 
-Here are some ideas to get you started:
+Atualmente possuo conhecimentos nas seguintes tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [JavaScript](https://www.javascript.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReactJS](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [NpmJS](https://www.npmjs.com/)
+- [Git](https://git-scm.com)
+
+Futuramente, também irei me aprofundar em frameworks para CSS e outras tecnologias, sendo elas:
+
+- [SASS](https://sass-lang.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [NodeJS](https://nodejs.org/pt-br/)
+
+Deseja me falar algo? Fique a vontade para entrar em contato!
+
+[![Website Badge](https://img.shields.io/badge/Website-endreubenites.com-black)](https://endreubenites.com/portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/endreu-benites/)](https://www.linkedin.com/in/endreu-benites/)
+
+____
+
+
+[![Endreu's GitHub stats](https://github-readme-stats.vercel.app/api?username=endreumrb&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
