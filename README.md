@@ -1,6 +1,6 @@
 ### Olá, Tudo certo? 😁 
 
-Meu nome é Endreu Benites. Tecnólogo em Análise e Desenvolvimento de Sistemas, trabalho como Técnico de suporte em busca da primeira oportunidade na área de desenvolvimento Front-End.
+Meu nome é Endreu Benites. Tecnólogo em Análise e Desenvolvimento de Sistemas, trabalho como Desenvolvedor Web PHP (Full Stack).
 
 Sou muito curioso quando o assunto se trata de tecnologia, por esse motivo sempre procuro evoluir e aprimorar meus conhecimentos.
 
