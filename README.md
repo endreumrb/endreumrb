@@ -10,14 +10,6 @@ Atualmente todos meus projetos são baseados nas seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
 - [Styled Components](https://styled-components.com/)
-- [NpmJS](https://www.npmjs.com/)
-- [Git](https://git-scm.com)
-
-Futuramente, também irei me aprofundar em frameworks para CSS e outras tecnologias, sendo elas:
-
-- [SASS](https://sass-lang.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [NodeJS](https://nodejs.org/pt-br/)
 
 Deseja me falar algo? Fique a vontade para entrar em contato!
 
