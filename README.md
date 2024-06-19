@@ -1,20 +1,10 @@
 ### Olá, Tudo certo? 😁 
 
-Meu nome é Endreu Benites. Tecnólogo em Análise e Desenvolvimento de Sistemas, trabalho como Desenvolvedor Web PHP (Full Stack).
+Sou um profissional apaixonado por tecnologia, com formação em Análise e Desenvolvimento de Sistemas. Possuo experiência em liderar e orientar desenvolvedores júnior, além de gerenciar o quadro de bugs, garantindo a qualidade e a eficiência do software.
 
-Sou muito curioso quando o assunto se trata de tecnologia, por esse motivo sempre procuro evoluir e aprimorar meus conhecimentos.
+Meus conhecimentos avançados em PHP e Laravel me permitem desenvolver aplicações web robustas e escaláveis. Tenho habilidades comprovadas na criação de APIs e na integração de sistemas, sempre buscando otimizar a experiência do usuário e a eficiência operacional.
 
-Atualmente todos meus projetos são baseados nas seguintes tecnologias:
-
-- [JavaScript](https://www.javascript.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [ReactJS](https://reactjs.org/)
-- [Styled Components](https://styled-components.com/)
-
-Deseja me falar algo? Fique a vontade para entrar em contato!
-
-[![Website Badge](https://img.shields.io/badge/Website-endreubenites.com-black)](https://endreubenites.com/portfolio/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/endreu-benites/)](https://www.linkedin.com/in/endreu-benites/)
+Estou comprometido com a aprendizagem contínua e busco constantemente me atualizar com as mais recentes tendências e melhores práticas do setor. Como colaborador, sou proativo, comunicativo e focado em resultados, acreditando no trabalho em equipe e na importância de estabelecer relacionamentos positivos.
 
 ____
 
